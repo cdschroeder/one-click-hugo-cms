@@ -1,7 +1,7 @@
 ---
 title: This is a new post
 date: 2018-08-20T13:38:05.001Z
-description: Welcome to the site
+description: Welcome to the site. Let's make a change.
 image: /img/products-grid1.jpg
 ---
 Lorem ipsum dolor amet pinterest adaptogen venmo craft beer snackwave put a bird on it pug intelligentsia church-key offal tofu flexitarian umami jean shorts gochujang. Migas snackwave succulents aesthetic pinterest. Quinoa venmo ramps, direct trade vegan food truck master cleanse DIY cloud bread freegan franzen fashion axe. Ethical four loko shoreditch freegan aesthetic. Jean shorts schlitz kombucha shaman mustache twee.
